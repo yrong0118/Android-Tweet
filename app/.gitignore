@@ -1,0 +1,9 @@
+/build
+.gradle
+/local properties
+/.idea/
+.DS_store
+/captures
+.externalNativeBuild
+.cxx
+google_maps_api.xml
